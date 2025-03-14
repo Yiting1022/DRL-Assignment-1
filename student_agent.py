@@ -4,7 +4,7 @@ import random
 from collections import defaultdict, deque
 from form_state import State  
 
-# 全局變數
+
 q_table = None
 state_tracker = None
 action = None
