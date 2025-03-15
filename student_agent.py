@@ -10,7 +10,7 @@ state_tracker = None
 action = None
 stations = None
 visited_states = deque(maxlen=5)  
-temperature = 1.0  
+temperature = 0.25  
 P_threshold = 0.99
 print("Student agent loaded")
 
